@@ -1,3 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <h1 align="center">Hi 👋, I'm NurAli Khutiev</h1>
 <h3 align="center">I'm a passionate software developer at the age of 19. I have experience in application development and a strong command of web technologies like JavaScript, HTML, and CSS. I'm also familiar with mobile app development platforms such as React Native and Expo.</h3>
 
