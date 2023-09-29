@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm NurAli Khutiev</h1>
 <h3 align="center">I'm a passionate software developer at the age of 19. I have experience in application development and a strong command of web technologies like JavaScript, HTML, and CSS. I'm also familiar with mobile app development platforms such as React Native and Expo.</h3>
 
-**`dddd`**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakaamov&label=Profile%20views&color=96d35f&style=plastic" alt="nakaamov" /> </p>
+**`Digital Craftsman (Devolper/Designer/Creator/FilmMaker)`**
 
 - 🔭 I’m currently working on **Palomniki**
 
