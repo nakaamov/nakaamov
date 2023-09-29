@@ -3,8 +3,6 @@
 
 **`Digital Craftsman (Devolper/Designer/Creator/FilmMaker)`**
 
-<img align='right' alt='coding' widht='400' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw1Xe5Lqw9BKIcVypVD8039C&ust=1696075962673000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiP6Lvlz4EDFQAAAAAdAAAAABAE![image](https://github.com/nakaamov/nakaamov/assets/84271723/24c59573-2528-42c8-ad0d-6ab1356fbc9b)'>
-
 - 🔭 I’m currently working on **Palomniki**
 
 - 🌱 I’m currently learning **Python**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakaamov&show_icons=true&locale=en&layout=compact" alt="nakaamov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakaamov&show_icons=true&locale=en" alt="nakaamov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakaamov&theme=dark" alt="nakaamov" /></p>
