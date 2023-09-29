@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **busulbman06@gmail.com**
 
-- ⚡ Fun fact **writing code**
+- ⚡ Fun fact **writing codee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
