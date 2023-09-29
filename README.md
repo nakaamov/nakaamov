@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.motor1.com%2Fnews%2F668953%2Fbmw-tasarim-dili-elektrikli-otomobiller%2F&psig=AOvVaw1i5xEXCXFMCAknpVsRdRW0&ust=1696049883885000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCS4qiEz4EDFQAAAAAdAAAAABAE)
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.motor1.com%2Fnews%2F668953%2Fbmw-tasarim-dili-elektrikli-otomobiller%2F&psig=AOvVaw1i5xEXCXFMCAknpVsRdRW0&ust=1696049883885000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCS4qiEz4EDFQAAAAAdAAAAABAE](https://pin.it/6wDKJKZ))
 <h1 align="center">Hi 👋, I'm NurAlı Khutıev</h1>
 <h3 align="center">I'm a passionate software developer at the age of 19. I have experience in application development and a strong command of web technologies like JavaScript, HTML, and CSS. I'm also familiar with mobile app development platforms such as React Native and Expo.</h3>
 
