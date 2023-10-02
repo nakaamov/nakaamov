@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Palomniki**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Dart**
 
 - 📫 How to reach me **busulbman06@gmail.com**
 
