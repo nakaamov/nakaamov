@@ -4,6 +4,9 @@
 
 **`Digital Craftsman (Devolper/Designer/Creator/VideoMaker)`**
 
+<img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
+<br> 
+
 - 🔭 I’m currently working on **Palomniki**
 
 - 🌱 I’m currently learning **Python and Dart**
@@ -11,9 +14,6 @@
 - 📫 How to reach me **busulbman06@gmail.com**
 
 - ⚡ Fun fact **writing code**
-
-<img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
-<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
