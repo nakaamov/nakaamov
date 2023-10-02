@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NurAli Khutiev</h1>
 <h3 align="center">I'm a passionate software developer at the age of 19. I have experience in application development and a strong command of web technologies like JavaScript, HTML, and CSS. I'm also familiar with mobile app development platforms such as React Native and Expo.</h3>
 
-**`Digital Craftsman (Devolper/Designer/Creator/FilmMaker)`**
+**`Digital Craftsman (Devolper/Designer/Creator/VideoMaker)`**
 
 - 🔭 I’m currently working on **Palomniki**
 
