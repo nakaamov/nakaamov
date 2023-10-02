@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+<img src="GitHub_Header.png" alt="Header Image">
 
 <h3 align="center">I'm a passionate software developer at the age of 19. I have experience in application development and a strong command of web technologies like JavaScript, HTML, and CSS. I'm also familiar with mobile app development platforms such as React Native and Expo.</h3>
 
