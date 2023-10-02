@@ -5,7 +5,6 @@
 **`Digital Craftsman (Devolper/Designer/Creator/VideoMaker)`**
 
 <img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
-<br> 
 
 - 🔭 I’m currently working on **Palomniki**
 
