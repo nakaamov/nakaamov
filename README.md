@@ -1,4 +1,4 @@
-<img src="GitHub_Header.png" alt="Header Image">
+![Header image](/GitHub_Header.jpg)
 
 <h3 align="center">I'm a passionate software developer at the age of 19. I have experience in application development and a strong command of web technologies like JavaScript, HTML, and CSS. I'm also familiar with mobile app development platforms such as React Native and Expo.</h3>
 
