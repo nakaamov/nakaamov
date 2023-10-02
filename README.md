@@ -12,9 +12,7 @@
 
 - ⚡ Fun fact **writing code**
 
-## coffee gif:
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
-<br>
+<img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
 <br> 
 
 <h3 align="left">Connect with me:</h3>
