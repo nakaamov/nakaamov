@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Palomniki**
 
-- 🌱 I’m currently learning **Python and Dart**
+- 🌱 I’m currently learning **JavaScript and Firebase**
 
 - 📫 How to reach me **busulbman06@gmail.com**
 
